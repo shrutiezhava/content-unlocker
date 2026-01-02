@@ -1,0 +1,18 @@
+# Firefox extension
+*.xpi
+*.zip
+
+# Icons (if added later)
+icons/*.png
+!icons/.gitkeep
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
